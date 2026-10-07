@@ -818,6 +818,15 @@
         "winget": "Modrinth.ModrinthApp",
         "foss": true
     },
+    "norisk": {
+        "category": "Games",
+        "choco": "na",
+        "content": "NoRisk Client",
+        "description": "NoRisk Client is an unofficial Minecraft Launcher.",
+        "link": "https://norisk.gg/",
+        "winget": "NoRiskClient.Launcher --scope user",
+        "foss": true
+    },
     "moonlight": {
         "category": "Selfhosted Tools",
         "choco": "moonlight-qt",
